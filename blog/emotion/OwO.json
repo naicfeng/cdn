@@ -1,0 +1,1393 @@
+{
+
+  "阿鲁": {
+    "name": "aru",
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/despise.png\">",
+        "text": "阿鲁.鄙视"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/knife.png\">",
+        "text": "阿鲁.插刀"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/pouting.png\">",
+        "text": "阿鲁.亲嘴"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/shutup.png\">",
+        "text": "阿鲁.闭嘴"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/unhappy.png\">",
+        "text": "阿鲁.不开心"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/discovertruth.png\">",
+        "text": "阿鲁.发现真相"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/shit.png\">",
+        "text": "阿鲁.便便"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/distressed.png\">",
+        "text": "阿鲁.烦恼"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/shy.png\">",
+        "text": "阿鲁.捂脸"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/speechless.png\">",
+        "text": "阿鲁.无语"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/confuse.png\">",
+        "text": "阿鲁.迷惑"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/frown.png\">",
+        "text": "阿鲁.皱眉"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/proud.png\">",
+        "text": "阿鲁.得意"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/cheer.png\">",
+        "text": "阿鲁.欢呼"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/meditation.png\">",
+        "text": "阿鲁.沉思"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/diving.png\">",
+        "text": "阿鲁.潜水"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/cryingface.png\">",
+        "text": "阿鲁.掩面哭泣"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/lurking.png\">",
+        "text": "阿鲁.潜伏"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/thumb.png\">",
+        "text": "阿鲁.大拇指"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/smile.png\">",
+        "text": "阿鲁.微笑"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/clap.png\">",
+        "text": "阿鲁.拍掌"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/envious.png\">",
+        "text": "阿鲁.眼馋"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/surrender.png\">",
+        "text": "阿鲁.投降"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/bigeye.png\">",
+        "text": "阿鲁.大眼睛"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/nose.png\">",
+        "text": "阿鲁.抠鼻"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/sweat.png\">",
+        "text": "阿鲁.流汗"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/flower.png\">",
+        "text": "阿鲁.小花花"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/crying.png\">",
+        "text": "阿鲁.流泪"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/spit.png\">",
+        "text": "阿鲁.吐"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/surprised.png\">",
+        "text": "阿鲁.吃惊"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/blood.png\">",
+        "text": "阿鲁.一滩血"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/blood2.png\">",
+        "text": "阿鲁.吐血"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/shy2.png\">",
+        "text": "阿鲁.脸红"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/angry.png\">",
+        "text": "阿鲁.生气"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/nomatter.png\">",
+        "text": "阿鲁.无所谓"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/dead.png\">",
+        "text": "阿鲁.死翘翘"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/insidious.png\">",
+        "text": "阿鲁.阴险"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/aru/tongue.png\">",
+        "text": "阿鲁.吐舌"
+      }
+
+    ]
+
+  },
+  "贴吧":{
+    "type": "image",
+    "name": "tieba",
+    "container":[
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb1.png\">",
+        "text": "Y.tb1"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb2.png\">",
+        "text": "Y.tb2"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb3.png\">",
+        "text": "Y.tb3"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb4.png\">",
+        "text": "Y.tb4"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb5.png\">",
+        "text": "Y.tb5"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb6.png\">",
+        "text": "Y.tb6"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb7.png\">",
+        "text": "Y.tb7"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb8.png\">",
+        "text": "Y.tb8"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb9.png\">",
+        "text": "Y.tb9"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb10.png\">",
+        "text": "Y.tb10"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb11.png\">",
+        "text": "Y.tb11"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb12.png\">",
+        "text": "Y.tb12"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb13.png\">",
+        "text": "Y.tb13"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb14.png\">",
+        "text": "Y.tb14"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb15.png\">",
+        "text": "Y.tb15"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb17.png\">",
+        "text": "Y.tb17"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb18.png\">",
+        "text": "Y.tb18"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb19.png\">",
+        "text": "Y.tb19"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb20.png\">",
+        "text": "Y.tb20"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb23.png\">",
+        "text": "Y.tb23"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb24.png\">",
+        "text": "Y.tb24"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb25.png\">",
+        "text": "Y.tb25"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb26.png\">",
+        "text": "Y.tb26"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb27.png\">",
+        "text": "Y.tb27"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb28.png\">",
+        "text": "Y.tb28"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb29.png\">",
+        "text": "Y.tb29"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb30.png\">",
+        "text": "Y.tb30"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb31.png\">",
+        "text": "Y.tb31"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb32.png\">",
+        "text": "Y.tb32"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb33.png\">",
+        "text": "Y.tb33"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb34.png\">",
+        "text": "Y.tb34"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb35.png\">",
+        "text": "Y.tb35"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb36.png\">",
+        "text": "Y.tb36"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb37.png\">",
+        "text": "Y.tb37"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb38.png\">",
+        "text": "Y.tb38"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb39.png\">",
+        "text": "Y.tb39"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb40.png\">",
+        "text": "Y.tb40"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb41.png\">",
+        "text": "Y.tb41"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb42.png\">",
+        "text": "Y.tb42"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb43.png\">",
+        "text": "Y.tb43"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb44.png\">",
+        "text": "Y.tb44"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb45.png\">",
+        "text": "Y.tb45"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb46.png\">",
+        "text": "Y.tb46"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb47.png\">",
+        "text": "Y.tb47"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb48.png\">",
+        "text": "Y.tb48"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb49.png\">",
+        "text": "Y.tb49"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb50.png\">",
+        "text": "Y.tb50"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb51.png\">",
+        "text": "Y.tb51"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb52.png\">",
+        "text": "Y.tb52"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb53.png\">",
+        "text": "Y.tb53"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb54.png\">",
+        "text": "Y.tb54"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb55.png\">",
+        "text": "Y.tb55"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb56.png\">",
+        "text": "Y.tb56"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb57.png\">",
+        "text": "Y.tb57"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb58.png\">",
+        "text": "Y.tb58"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb59.png\">",
+        "text": "Y.tb59"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb60.png\">",
+        "text": "Y.tb60"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb61.png\">",
+        "text": "Y.tb61"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb62.png\">",
+        "text": "Y.tb62"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb63.png\">",
+        "text": "Y.tb63"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb64.png\">",
+        "text": "Y.tb64"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb65.png\">",
+        "text": "Y.tb65"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb66.png\">",
+        "text": "Y.tb66"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb67.png\">",
+        "text": "Y.tb67"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb68.png\">",
+        "text": "Y.tb68"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb69.png\">",
+        "text": "Y.tb69"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb70.png\">",
+        "text": "Y.tb70"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb71.png\">",
+        "text": "Y.tb71"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb72.png\">",
+        "text": "Y.tb72"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb73.png\">",
+        "text": "Y.tb73"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb74.png\">",
+        "text": "Y.tb74"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb75.png\">",
+        "text": "Y.tb75"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb76.png\">",
+        "text": "Y.tb76"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb77.png\">",
+        "text": "Y.tb77"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb78.png\">",
+        "text": "Y.tb78"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb79.png\">",
+        "text": "Y.tb79"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb80.png\">",
+        "text": "Y.tb80"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb81.png\">",
+        "text": "Y.tb81"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb82.png\">",
+        "text": "Y.tb82"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb83.png\">",
+        "text": "Y.tb83"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb84.png\">",
+        "text": "Y.tb84"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb85.png\">",
+        "text": "Y.tb85"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb86.png\">",
+        "text": "Y.tb86"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb87.png\">",
+        "text": "Y.tb87"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb88.png\">",
+        "text": "Y.tb88"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb89.png\">",
+        "text": "Y.tb89"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb90.png\">",
+        "text": "Y.tb90"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb91.png\">",
+        "text": "Y.tb91"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb92.png\">",
+        "text": "Y.tb92"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb93.png\">",
+        "text": "Y.tb93"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb94.png\">",
+        "text": "Y.tb94"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb95.png\">",
+        "text": "Y.tb95"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb96.png\">",
+        "text": "Y.tb96"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb97.png\">",
+        "text": "Y.tb97"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb98.png\">",
+        "text": "Y.tb98"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/tieba/Y.tb99.png\">",
+        "text": "Y.tb99"
+      }
+
+    ]
+
+  },
+  "微博":{
+    "type": "image",
+    "name": "weibo",
+    "container":[
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb1.png\">",
+        "text": "Y.wb1"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb2.png\">",
+        "text": "Y.wb2"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb3.png\">",
+        "text": "Y.wb3"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb4.png\">",
+        "text": "Y.wb4"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb5.png\">",
+        "text": "Y.wb5"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb6.png\">",
+        "text": "Y.wb6"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb7.png\">",
+        "text": "Y.wb7"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb8.png\">",
+        "text": "Y.wb8"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb9.png\">",
+        "text": "Y.wb9"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb10.png\">",
+        "text": "Y.wb10"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb11.png\">",
+        "text": "Y.wb11"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb12.png\">",
+        "text": "Y.wb12"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb13.png\">",
+        "text": "Y.wb13"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb14.png\">",
+        "text": "Y.wb14"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb15.png\">",
+        "text": "Y.wb15"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb16.png\">",
+        "text": "Y.wb16"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb17.png\">",
+        "text": "Y.wb17"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb18.png\">",
+        "text": "Y.wb18"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb19.png\">",
+        "text": "Y.wb19"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb20.png\">",
+        "text": "Y.wb20"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb21.png\">",
+        "text": "Y.wb21"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb22.png\">",
+        "text": "Y.wb22"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb23.png\">",
+        "text": "Y.wb23"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb24.png\">",
+        "text": "Y.wb24"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb25.png\">",
+        "text": "Y.wb25"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb26.png\">",
+        "text": "Y.wb26"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb27.png\">",
+        "text": "Y.wb27"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb28.png\">",
+        "text": "Y.wb28"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb29.png\">",
+        "text": "Y.wb29"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb30.png\">",
+        "text": "Y.wb30"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb31.png\">",
+        "text": "Y.wb31"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb32.png\">",
+        "text": "Y.wb32"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb33.png\">",
+        "text": "Y.wb33"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb34.png\">",
+        "text": "Y.wb34"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb35.png\">",
+        "text": "Y.wb35"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb36.png\">",
+        "text": "Y.wb36"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb37.png\">",
+        "text": "Y.wb37"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb38.png\">",
+        "text": "Y.wb38"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb39.png\">",
+        "text": "Y.wb39"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb40.png\">",
+        "text": "Y.wb40"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb41.png\">",
+        "text": "Y.wb41"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb42.png\">",
+        "text": "Y.wb42"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb43.png\">",
+        "text": "Y.wb43"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb44.png\">",
+        "text": "Y.wb44"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb45.png\">",
+        "text": "Y.wb45"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb46.png\">",
+        "text": "Y.wb46"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb47.png\">",
+        "text": "Y.wb47"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb48.png\">",
+        "text": "Y.wb48"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb49.png\">",
+        "text": "Y.wb49"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb50.png\">",
+        "text": "Y.wb50"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb51.png\">",
+        "text": "Y.wb51"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb52.png\">",
+        "text": "Y.wb52"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb53.png\">",
+        "text": "Y.wb53"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb54.png\">",
+        "text": "Y.wb54"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb55.png\">",
+        "text": "Y.wb55"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb56.png\">",
+        "text": "Y.wb56"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb57.png\">",
+        "text": "Y.wb57"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb58.png\">",
+        "text": "Y.wb58"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb59.png\">",
+        "text": "Y.wb59"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb60.png\">",
+        "text": "Y.wb60"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb61.png\">",
+        "text": "Y.wb61"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb62.png\">",
+        "text": "Y.wb62"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb63.png\">",
+        "text": "Y.wb63"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb64.png\">",
+        "text": "Y.wb64"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb65.png\">",
+        "text": "Y.wb65"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb66.png\">",
+        "text": "Y.wb66"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb67.png\">",
+        "text": "Y.wb67"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb68.png\">",
+        "text": "Y.wb68"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb69.png\">",
+        "text": "Y.wb69"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb70.png\">",
+        "text": "Y.wb70"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb71.png\">",
+        "text": "Y.wb71"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb72.png\">",
+        "text": "Y.wb72"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb73.png\">",
+        "text": "Y.wb73"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb74.png\">",
+        "text": "Y.wb74"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb75.png\">",
+        "text": "Y.wb75"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb76.png\">",
+        "text": "Y.wb76"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb77.png\">",
+        "text": "Y.wb77"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb78.png\">",
+        "text": "Y.wb78"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb79.png\">",
+        "text": "Y.wb79"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb80.png\">",
+        "text": "Y.wb80"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb81.png\">",
+        "text": "Y.wb81"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb82.png\">",
+        "text": "Y.wb82"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb83.png\">",
+        "text": "Y.wb83"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb84.png\">",
+        "text": "Y.wb84"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb85.png\">",
+        "text": "Y.wb85"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb86.png\">",
+        "text": "Y.wb86"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb87.png\">",
+        "text": "Y.wb87"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb88.png\">",
+        "text": "Y.wb88"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb89.png\">",
+        "text": "Y.wb89"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb90.png\">",
+        "text": "Y.wb90"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb91.png\">",
+        "text": "Y.wb91"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb92.png\">",
+        "text": "Y.wb92"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb93.png\">",
+        "text": "Y.wb93"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb94.png\">",
+        "text": "Y.wb94"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb95.png\">",
+        "text": "Y.wb95"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb96.png\">",
+        "text": "Y.wb96"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb97.png\">",
+        "text": "Y.wb97"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb98.png\">",
+        "text": "Y.wb98"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb99.png\">",
+        "text": "Y.wb99"
+            },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb100.png\">",
+        "text": "Y.wb100"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb101.png\">",
+        "text": "Y.wb101"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb102.png\">",
+        "text": "Y.wb102"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb103.png\">",
+        "text": "Y.wb103"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb104.png\">",
+        "text": "Y.wb104"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb105.png\">",
+        "text": "Y.wb105"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb106.png\">",
+        "text": "Y.wb106"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb107.png\">",
+        "text": "Y.wb107"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb108.png\">",
+        "text": "Y.wb108"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb109.png\">",
+        "text": "Y.wb109"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb110.png\">",
+        "text": "Y.wb110"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb111.png\">",
+        "text": "Y.wb111"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/weibo/Y.wb112.png\">",
+        "text": "Y.wb112"
+      }
+
+    ]
+
+  },
+  "QQ":{
+    "type": "image",
+    "name": "QQ",
+    "container":[
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq1.png\">",
+        "text": "Y.qq1"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq2.png\">",
+        "text": "Y.qq2"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq3.png\">",
+        "text": "Y.qq3"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq4.png\">",
+        "text": "Y.qq4"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq5.png\">",
+        "text": "Y.qq5"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq6.png\">",
+        "text": "Y.qq6"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq7.png\">",
+        "text": "Y.qq7"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq8.png\">",
+        "text": "Y.qq8"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq9.png\">",
+        "text": "Y.qq9"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq10.png\">",
+        "text": "Y.qq10"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq11.png\">",
+        "text": "Y.qq11"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq12.png\">",
+        "text": "Y.qq12"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq13.png\">",
+        "text": "Y.qq13"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq14.png\">",
+        "text": "Y.qq14"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq15.png\">",
+        "text": "Y.qq15"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq17.png\">",
+        "text": "Y.qq17"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq18.png\">",
+        "text": "Y.qq18"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq19.png\">",
+        "text": "Y.qq19"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq20.png\">",
+        "text": "Y.qq20"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq23.png\">",
+        "text": "Y.qq23"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq24.png\">",
+        "text": "Y.qq24"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq25.png\">",
+        "text": "Y.qq25"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq26.png\">",
+        "text": "Y.qq26"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq27.png\">",
+        "text": "Y.qq27"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq28.png\">",
+        "text": "Y.qq28"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq29.png\">",
+        "text": "Y.qq29"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq30.png\">",
+        "text": "Y.qq30"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq31.png\">",
+        "text": "Y.qq31"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq32.png\">",
+        "text": "Y.qq32"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq33.png\">",
+        "text": "Y.qq33"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq34.png\">",
+        "text": "Y.qq34"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq35.png\">",
+        "text": "Y.qq35"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq36.png\">",
+        "text": "Y.qq36"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq37.png\">",
+        "text": "Y.qq37"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq38.png\">",
+        "text": "Y.qq38"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq39.png\">",
+        "text": "Y.qq39"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq40.png\">",
+        "text": "Y.qq40"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq41.png\">",
+        "text": "Y.qq41"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq42.png\">",
+        "text": "Y.qq42"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq43.png\">",
+        "text": "Y.qq43"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq44.png\">",
+        "text": "Y.qq44"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq45.png\">",
+        "text": "Y.qq45"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq46.png\">",
+        "text": "Y.qq46"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq47.png\">",
+        "text": "Y.qq47"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq48.png\">",
+        "text": "Y.qq48"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq49.png\">",
+        "text": "Y.qq49"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq50.png\">",
+        "text": "Y.qq50"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq51.png\">",
+        "text": "Y.qq51"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq52.png\">",
+        "text": "Y.qq52"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq53.png\">",
+        "text": "Y.qq53"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq54.png\">",
+        "text": "Y.qq54"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq55.png\">",
+        "text": "Y.qq55"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq56.png\">",
+        "text": "Y.qq56"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq57.png\">",
+        "text": "Y.qq57"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq58.png\">",
+        "text": "Y.qq58"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq59.png\">",
+        "text": "Y.qq59"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq60.png\">",
+        "text": "Y.qq60"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq61.png\">",
+        "text": "Y.qq61"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq62.png\">",
+        "text": "Y.qq62"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq63.png\">",
+        "text": "Y.qq63"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq64.png\">",
+        "text": "Y.qq64"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq65.png\">",
+        "text": "Y.qq65"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq66.png\">",
+        "text": "Y.qq66"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq67.png\">",
+        "text": "Y.qq67"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq68.png\">",
+        "text": "Y.qq68"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq69.png\">",
+        "text": "Y.qq69"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq70.png\">",
+        "text": "Y.qq70"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq71.png\">",
+        "text": "Y.qq71"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq72.png\">",
+        "text": "Y.qq72"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq73.png\">",
+        "text": "Y.qq73"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq74.png\">",
+        "text": "Y.qq74"
+	  },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq75.png\">",
+        "text": "Y.qq75"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq76.png\">",
+        "text": "Y.qq76"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq77.png\">",
+        "text": "Y.qq77"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq78.png\">",
+        "text": "Y.qq78"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq79.png\">",
+        "text": "Y.qq79"
+      },
+	  {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/naicfeng/cdn/blog/emotion/QQ/Y.qq80.png\">",
+        "text": "Y.qq80"
+      }
+    ]
+  },
+  "Bilibili": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">", "text": "tv_doge" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">", "text": "tv_亲亲" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">", "text": "tv_偷笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">", "text": "tv_再见" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">", "text": "tv_冷漠" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">", "text": "tv_发怒" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">", "text": "tv_发财" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">", "text": "tv_可爱" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">", "text": "tv_吐血" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">", "text": "tv_呆" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">", "text": "tv_呕吐" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">", "text": "tv_困" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">", "text": "tv_坏笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">", "text": "tv_大佬" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">", "text": "tv_大哭" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">", "text": "tv_委屈" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">", "text": "tv_害羞" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">", "text": "tv_尴尬" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">", "text": "tv_微笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">", "text": "tv_思考" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">", "text": "tv_惊吓" }
+    ]
+  },
+  "Emoji": {
+    "type": "emoji",
+    "container": [
+      { "icon": "😂", "text": "" },
+      { "icon": "😀", "text": "" },
+      { "icon": "😅", "text": "" },
+      { "icon": "😊", "text": "" },
+      { "icon": "🙂", "text": "" },
+      { "icon": "🙃", "text": "" },
+      { "icon": "😌", "text": "" },
+      { "icon": "😍", "text": "" },
+      { "icon": "😘 ", "text": "" },
+      { "icon": "😜", "text": "" },
+      { "icon": "😝", "text": "" },
+      { "icon": "😏", "text": "" },
+      { "icon": "😒", "text": "" },
+      { "icon": "🙄", "text": "" },
+      { "icon": "😳 ", "text": "" },
+      { "icon": "😡", "text": "" },
+      { "icon": "😔", "text": "" },
+      { "icon": "😫", "text": "" },
+      { "icon": "😱", "text": "" },
+      { "icon": "😭", "text": "" },
+      { "icon": "💩", "text": "" },
+      { "icon": "👻", "text": "" },
+      { "icon": "🙌", "text": "" },
+      { "icon": "🖕", "text": "" },
+      { "icon": "👍", "text": "" },
+      { "icon": "👫", "text": "" },
+      { "icon": "👬", "text": "" },
+      { "icon": "👭", "text": "" },
+      { "icon": "🌚", "text": "" },
+      { "icon": "🌝", "text": "" },
+      { "icon": "🙈", "text": "" },
+      { "icon": "💊", "text": "" },
+      { "icon": "😶", "text": "" },
+      { "icon": "🙏", "text": "" },
+      { "icon": "🍦", "text": "" },
+      { "icon": "🍉", "text": "" },
+      { "icon": "😣", "text": "" }
+    ]
+  }
+}
