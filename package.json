@@ -1,0 +1,19 @@
+{
+  "name": "nacdn",
+  "version": "1.0.1",
+  "description": "ncdn项目使用",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naicfeng/nacdn.git"
+  },
+  "keywords": [
+    "ncdn"
+  ],
+  "author": "naicfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naicfeng/nacdn/issues"
+  },
+  "homepage": "https://cuojue.org"
+}
