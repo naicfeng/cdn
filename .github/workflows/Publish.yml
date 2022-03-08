@@ -1,0 +1,33 @@
+name: Publish to NPM
+
+env:
+  TZ: Asia/Shanghai
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+          registry-url: https://registry.npmjs.org/
+
+      - name: Update version
+        run: node --experimental-modules index.mjs
+
+      - name: Publish package
+        run: |
+          npm version patch
+          npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
