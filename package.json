@@ -1,6 +1,6 @@
 {
   "name": "nacdn",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "ncdn项目使用",
   "main": "index.mjs",
   "repository": {
