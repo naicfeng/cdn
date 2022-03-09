@@ -12,12 +12,12 @@
   /* 发布时间超过指定时间（毫秒） */
   if (interval > 3600*24*90*1000){
     var days = parseInt(interval / 86400000)
-    posts[0].innerHTML = '<div class="note note-warning" style="font-size:0.9rem"><p>' +
+    posts[0].insertAdjacentHTML('afterbegin', '<div class="note note-warning" style="font-size:0.9rem"><p>' +
       '<div class="h6">文章时效性提示</div><p>这是一篇' + showtext + '于 ' + days + ' 天前的文章，部分信息可能已发生改变，请注意甄别。' +
-      '</p></p></div>' + posts[0].innerHTML;
+      '</p></p></div>');
   }
 	//if (document.domain != 'cuojue.org' && document.domain != 'localhost')window.location.href='https://cuojue.org';
-//	if (top.location != self.location)top.location=self.location;
+	if (top.location != self.location)top.location=self.location;
 //	var dynamicLoading = {
 //		css: function(path){
 //				if(!path || path.length === 0){
