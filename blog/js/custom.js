@@ -51,6 +51,8 @@
       'love=' + 'UA-77075137-1',
       // Title
       'dt=' + encode(document.title),
+      // Document location URL
+      'dl=' + encode(window.location.href),
       // Document Encoding
       'de=' + encode(document.characterSet || document.charset),
       // Referrer
