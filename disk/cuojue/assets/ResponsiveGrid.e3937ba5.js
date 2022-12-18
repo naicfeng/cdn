@@ -1,1 +1,0 @@
-import{f as r,bZ as t}from"./index.6ff39b49.js";const n=e=>r(t,{w:"$full",gap:"$2",templateColumns:{"@initial":"1fr","@lg":"repeat(auto-fill, minmax(424px, 1fr))"},get children(){return e.children}});export{n as R};
